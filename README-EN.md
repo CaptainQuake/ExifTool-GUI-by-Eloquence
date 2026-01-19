@@ -1,3 +1,4 @@
+🇷🇺 [РУССКИЙ](https://github.com/CaptainQuake/ExifTool-GUI-by-Eloquence/blob/main/README.md) | 🇬🇧 ENGLISH
 <div align="center">
 
 <h2 style="color: #006699;">ExifTool GUI 1.1 Beta</h2>
